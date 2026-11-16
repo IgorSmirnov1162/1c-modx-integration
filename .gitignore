@@ -1,0 +1,19 @@
+# 1С
+*.cf
+*.cfe
+*.dt
+*.epf
+1cv8.1cd
+ConfigDumpInfo.xml
+
+# IDE / ОС
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# Прочее
+node_modules/
+vendor/
